@@ -4,7 +4,7 @@
 I'm software engineering student from finland who likes to code and realise ideas into software applications. I think the best feeling in the world is when you finally solve a difficult problem.
 
 ## 💡 Skills
-- **Languages** Java, Kotlin, C#, Python, JavaScript, HTML5, CSS3
+- **Languages:** Java, Kotlin, C#, Python, JavaScript, HTML5, CSS3
 <p>
   <img src="https://img.shields.io/badge/Java-0854C1?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -15,7 +15,7 @@ I'm software engineering student from finland who likes to code and realise idea
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-- **Framework** React, NodeJS, Spring Boot, JavaFX, Vaadin
+- **Frameworks:** React, NodeJS, Spring Boot, JavaFX, Vaadin
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white" />
@@ -24,7 +24,7 @@ I'm software engineering student from finland who likes to code and realise idea
   <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" />
 </p>
 
-- **Tools** Git, Docker, StarUML, Scene Builder; JUnit, MySQL, HeidiSQL, Jenkins, Apache JMeter
+- **Tools:** Git, Docker, StarUML, Scene Builder; JUnit, MySQL, HeidiSQL, Jenkins, Apache JMeter
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
