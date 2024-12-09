@@ -59,6 +59,15 @@ I'm software engineering student from finland who likes to code and realise idea
 ### [Chess Clock]()
 - Simple phone app using android studio
 
+### [Grocery List App]()
+- Phone application to add and manage grocery list to make shoppink easier
+
+### [Drinking Game]()
+- Mobile co-op game to have fun with friends
+
+### [Elecricity Monitoring API]()
+- Interface to request electricity data such as price (c/kwh) and some statistics
+- Calculate electricity consumption based on user input
 
 <!---
 
