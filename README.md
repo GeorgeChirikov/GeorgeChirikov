@@ -15,19 +15,19 @@ I'm software engineering student from finland who likes to code and realise idea
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-- **Frameworks:** React, NodeJS, Spring Boot, JavaFX, Vaadin
+- **Frameworks:** React, Spring Boot, JavaFX, Vaadin
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-5395FD?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Vaadin" src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" />
 </p>
 
-- **Tools:** Git, Docker, StarUML, Scene Builder; JUnit, MySQL, HeidiSQL, Jenkins, Apache JMeter
+- **Tools:** Git, Docker, Node.js StarUML, Scene Builder; JUnit, MySQL, HeidiSQL, Jenkins, Apache JMeter
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="StarUML" src="https://img.shields.io/badge/StarUML-FABD14?style=for-the-badge&logo=uml&logoColor=black" />
   <img alt="Scene Builder" src="https://img.shields.io/badge/Scene Builder-336699?style=for-the-badge&logo=scene builder&logoColor=black" />
   <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
