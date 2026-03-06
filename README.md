@@ -40,6 +40,9 @@ I'm software engineering student from finland who likes to code and realise idea
 
 ## 📁 Projects
 
+### **[FoodieDiary](https://github.com/GeorgeChirikov/FoodieDiary)**
+- Android application that allows user to scan EAN barcodes of food products, store them locally, and manage favorites or daily food logs (authors: [George](https://github.com/GeorgeChirikov), [Cindy](https://github.com/mangomansikka), [Maisa](https://github.com/maisajulianna) and [Yasmin](https://github.com/yasminbx))
+
 ### **[Edubird](https://github.com/gitober/Student-Information-System)**
 - School project web application using Java, Spring Boot and Vaadin (authors: [Gitta](https://github.com/gitober), [Eetu](https://github.com/eetuam1), [George](https://github.com/GeorgeChirikov) and [Anni](https://github.com/annikannisto))
 
@@ -62,7 +65,7 @@ I'm software engineering student from finland who likes to code and realise idea
 ### [Grocery List App]()
 - Phone application to add and manage grocery list to make shopping easier
 
-### [Drinking Game]()
+### [Mobile CO-OP Game]()
 - Mobile co-op game to have fun with friends
 
 ### [Electricity Monitoring API]()
